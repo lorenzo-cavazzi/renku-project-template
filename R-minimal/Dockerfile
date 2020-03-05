@@ -1,4 +1,4 @@
-FROM renku/singleuser-r:0.4.4-renku0.9.0
+FROM lorenzocavazzitech/renkulab-image-r-20200305
 
 # Uncomment and adapt if code is to be included in the image
 # COPY src /code/src

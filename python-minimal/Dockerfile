@@ -1,4 +1,4 @@
-FROM lorenzocavazzitech/singleuser:200304jh1
+FROM lorenzocavazzitech/renkulab-image-python-20200305
 
 # Uncomment and adapt if code is to be included in the image
 # COPY src /code/src
